@@ -162,6 +162,5 @@ provided a foundation for our modeling approach.
 ├── task_1/                # Data preparation & feature engineering
 ├── task_2/                # Classification models for placement
 ├── task_3/                # Regression models for energy prediction
-├── maps/                  # Interactive maps and visualizations
 
 
